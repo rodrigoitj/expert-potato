@@ -1,2 +1,2 @@
-ALWAYS=mpvip,cpom,cmp
+ALWAYS=
 SKIP=evento,bonusmcs,speed,points,mu,comandos,amazon,song,pontos,discord,loja,rotaup,youtube,mlrw,mldl,mlsum,mlsu,mlsm,mlrf,mlelf,mlsl,mlgl,mlmg,mlbm,mldk,mlbk,steam,pinou,donate,OPLANO,GUILD,itensquest,drop,seeds,zap,ml,questbau,classe,itensquestdrop,antilag,itemquest,carreira,patch,pipi,roletamu,sh,grupodonate
