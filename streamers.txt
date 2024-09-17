@@ -1,1 +1,2 @@
-
+CHANNEL,BOT,ANNOUNCEMENT
+anikera1,anikera1,{me} Ganhou !!
