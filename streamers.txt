@@ -1,2 +1,2 @@
-CHANNEL,BOT,ANNOUNCEMENT
-anikera1,anikera1,{me} Ganhou !!
+CHANNEL,BOT,ANNOUNCEMENT,METHOD
+anikera1,anikera1,{me} Ganhou !!,localeCompare
