@@ -1,3 +1,4 @@
 CHANNEL,BOT,ANNOUNCEMENT,METHOD
 anikera1,anikera1,{me} Ganhou !!,equals
 ridrogoxd,ridrogoxd,{me} Ganhou !!,equals
+xsuprem0o,MaratonaApp,{me}... tudo depende apenas de você.,startsWith
